@@ -579,7 +579,8 @@ hr {
 
     background: #00274c url('../img/212/super.png');
     background-size: cover;    
-    font-size: 30px; }
+    font-size: 30px; 
+    color: #00274c; }
     @media screen and (max-width: 480px) {
       .tile.tile-super .tile-inner {
         font-size: 10px; } }
@@ -956,7 +957,8 @@ hr {
 
       background: #00274c url('../img/114/super.png');
       background-size: cover;    
-      font-size: 30px; }
+      font-size: 30px;  
+    color: #00274c; }
       @media screen and (max-width: 480px) {
         .tile.tile-super .tile-inner {
           font-size: 10px; } }
