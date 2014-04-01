@@ -145,9 +145,10 @@ h1.title {
       100%   {background: #dff;}}      
       
   a:hover {
-         -webkit-animation: hover-change linear 0.1s infinite;
+		color: #000;
+        /* -webkit-animation: hover-change linear 0.1s infinite;
          -moz-animation: hover-change linear 0.1s infinite;
-         animation: hover-change linear 0.1s infinite;
+         animation: hover-change linear 0.1s infinite;*/
        }      
 
 .scores-container {
